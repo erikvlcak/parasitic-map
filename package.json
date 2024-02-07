@@ -10,9 +10,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@amcharts/amcharts5": "^5.8.0",
-    "@amcharts/amcharts5-fonts": "^5.0.1",
-    "@amcharts/amcharts5-geodata": "^5.1.2",
     "@headlessui/react": "^1.7.18",
     "@heroicons/react": "^2.1.1",
     "react": "^18.2.0",
